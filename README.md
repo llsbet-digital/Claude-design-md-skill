@@ -1,2 +1,2 @@
-# Claude-design-md-skill
-Use this skill whenever a user wants to create, write, or improve a DESIGN.md file
+Use this skill whenever a user wants to create, write, or improve a DESIGN.md file — the markdown format used to give AI coding tools (Claude Code, Cursor, Stitch, Windsurf) a readable design system. Trigger for any mention of DESIGN.md, "design system for AI", "design file for Claude/Cursor", or requests like "write a design system file", "help me set up my design tokens for AI", or "create a DESIGN.md for my product". Also trigger when a user shares a weak or token-only DESIGN.md and wants it improved. The output is always a complete, well-structured DESIGN.md file that AI tools can reason with — not just read.
+
